@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=FFDDDD&height=160&section=header&text=Yujin%20Jeong&fontSize=38&animation=fadeIn&fontColor=773333
+![header](https://capsule-render.vercel.app/api?type=venom&color=FFDDDD&height=160&section=header&text=Youjin%20Jeong&fontSize=38&animation=fadeIn&fontColor=773333
 )
   <img
     src="https://render.gitanimals.org/lines/marshmallowing?pet-id=637623879201541812"
