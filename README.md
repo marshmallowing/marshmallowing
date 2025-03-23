@@ -4,7 +4,7 @@
   <img
     src="https://render.gitanimals.org/lines/marshmallowing?pet-id=637623879201541812"
     width="600"
-    height="90"
+    height="120"
   />  
 
 <h2>✨ Stacks</h2>
@@ -12,9 +12,9 @@
 <p>
   <div>
     <p>&nbsp;<strong>⚒️Backend</strong></p>
-    &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+    &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=flat-square&logo=spring-boot"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&&logo=Java&logoColor=white"/>
   </div>
   <br>
   <p>&nbsp;<strong>⚒️Frontend</strong></p>
@@ -28,8 +28,9 @@
 <h2>👩‍💻 Profile </h2>
 <ul>
   <li>홍익대학교 컴퓨터공학과 <sub>(2022.03 ~ )</sub></li>
-  <li>대학생 IT 연합 동아리 <a href="https://github.com/HIUMC">UMC</a> 5기 web <sub>(2023.09 ~ 2024.02)</sub></li>
-  <li>대학생 IT 연합 동아리 <a href="https://github.com/HIUMC">UMC</a> 7기 springboot <sub>(2024.09 ~ 2025.02)</sub></li>
+  <li>대학생 IT 연합 동아리 <a href="https://github.com/HIUMC">UMC</a> 5기 Web <sub>(2023.09 ~ 2024.02)</sub></li>
+  <li>대학생 IT 연합 동아리 <a href="https://github.com/HIUMC">UMC</a> 7기 Server <sub>(2024.09 ~ 2025.02)</sub></li>
+  <li>IT 연합 동아리 <a href="https://github.com/IT-Cotato">COTATO</a> 11기 Backend <sub>(2025.03 ~ )</sub></li>
 </ul>
 
 <h2>🚀 Projects</h2>
