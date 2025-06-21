@@ -36,8 +36,7 @@
 <h2>🚀 Projects</h2>
 <ul>
   <li>아날로그 감성으로 전하는 비동기 편지 서비스, <strong>낭만고양이</strong> FE <sub>(2023.12 ~ 2024.03)</sub></li>
-  <li>실시간 그림 편지 작성 서비스, <strong>잇토리</strong> FE <sub>(2024.07 ~ )</sub></li>
+  <li>실시간 그림 편지 작성 서비스, <strong>잇토리</strong> FE <sub>(2024.07 ~ 2025.05)</sub></li>
   <li>회고 및 새해 계획 랜덤 질문 서비스, <strong>리플리</strong> FE <sub>(2024.11)</sub>
-    <sub>🏆 너디너리 해커톤 대상</sub></li> 
-  <li>세상의 모든 밈코인을 한곳에서 모아보는 종합 서비스, <strong>MemeSphere</strong> BE <sub>(2024.12 ~ 2025.02) 🏆 UMC 데모데이 최우수상</sub></li> 
+  <li>세상의 모든 밈코인을 한곳에서 모아보는 종합 서비스, <strong>MemeSphere</strong> BE <sub>(2024.12 ~ 2025.02)</sub></li> 
 </ul>
